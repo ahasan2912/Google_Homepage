@@ -1,0 +1,14 @@
+@media (min-width: 320px) and (max-width: 720px){
+    section .main .searchbox .search{
+        width: 78%;
+    }
+    section .main .searchbox .icons{
+        width: 80%;
+    }
+    section .main .lang{
+        margin-top: 10px;
+    }
+    section .footer .row ul{
+    display: block;
+   }
+}
